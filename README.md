@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=ffffff" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=COCONUTwwater&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=COCONUTwwater&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/d0191564f04d1a23706ceebe7bc104ac" target="_blank">🎮 Steam playtime leaderboard</a>
