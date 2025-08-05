@@ -16,6 +16,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=COCONUTwwater&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/d0191564f04d1a23706ceebe7bc104ac" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Brotato                          🕘 172 hrs 24 mins
+🎮 ARK: Survival Evolved            🕘 160 hrs 9 mins
+🎮 DRAGON BALL: THE BREAKERS        🕘 112 hrs 24 mins
+🎮 The Witcher 3: Wild Hunt         🕘 84 hrs 4 mins
+🦾 Cyberpunk 2077                   🕘 57 hrs 55 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 <!--
