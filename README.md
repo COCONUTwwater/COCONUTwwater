@@ -29,6 +29,9 @@
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
+
+![](https://raw.githubusercontent.com/COCONUTwwater/COCONUTwwater/refs/heads/snake/snake.svg)
+
 <!--
 **COCONUTwwater/COCONUTwwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
