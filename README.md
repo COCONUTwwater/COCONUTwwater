@@ -24,7 +24,7 @@
 🎮 ARK: Survival Evolved            🕘 160 hrs 9 mins
 🎮 DRAGON BALL: THE BREAKERS        🕘 112 hrs 24 mins
 🎮 The Witcher 3: Wild Hunt         🕘 84 hrs 4 mins
-🔫 Counter-Strike 2                 🕘 74 hrs 55 mins
+🔫 Counter-Strike 2                 🕘 75 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
