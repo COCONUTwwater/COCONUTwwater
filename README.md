@@ -14,7 +14,8 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=COCONUTwwater&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+    <img height="165px" src="https://github-readme-stats-six-pied-27.vercel.app/api?username=COCONUTwwater&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+    <img height="165px" src="https://github-readme-stats-six-pied-27.vercel.app/api/top-langs/?username=COCONUTwwater&layout=compact" />
 </div>
 
 <!-- steam-box start -->
