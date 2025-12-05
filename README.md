@@ -14,8 +14,16 @@
 </p>
 
 <div align="center">
-    <img height="165px" src="https://github-readme-stats-six-pied-27.vercel.app/api?username=COCONUTwwater&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-    <img height="165px" src="https://github-readme-stats-six-pied-27.vercel.app/api/top-langs/?username=COCONUTwwater&layout=compact" />
+  <!-- Row 1: Stats + Streak + Languages -->
+  <img height="180em" src="https://github-readme-stats-six-pied-27.vercel.app/api?username=COCONUTwwater&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats-six-pied-27.vercel.app/api/top-langs/?username=COCONUTwwater&theme=tokyonight&hide_border=false&hide_title=true" />
+
+  <br><br>
+  <!-- Row 2: Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=COCONUTwwater&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+
+  <!-- Row 3: Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=COCONUTwwater&theme=tokyo-night&hide_border=true" />
 </div>
 
 <!-- steam-box start -->
