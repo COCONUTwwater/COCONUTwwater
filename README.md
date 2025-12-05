@@ -23,9 +23,9 @@
 ```text
 🎮 Brotato                          🕘 172 hrs 24 mins
 🎮 ARK: Survival Evolved            🕘 160 hrs 9 mins
+🔫 Counter-Strike 2                 🕘 154 hrs 43 mins
 🎮 DRAGON BALL: THE BREAKERS        🕘 112 hrs 24 mins
 🎮 The Witcher 3: Wild Hunt         🕘 84 hrs 4 mins
-🦾 Cyberpunk 2077                   🕘 57 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
