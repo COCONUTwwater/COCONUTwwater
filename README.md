@@ -13,19 +13,6 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=ffffff" />
 </p>
 
-<!-- <div align="center">
-  <!-- Row 1: Stats + Streak + Languages -->
-  <img height="180em" src="https://github-readme-stats-six-pied-27.vercel.app/api?username=COCONUTwwater&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats-six-pied-27.vercel.app/api/top-langs/?username=COCONUTwwater&theme=tokyonight&hide_border=false&hide_title=true" />
-
-  <br><br>
-  <!-- Row 2: Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=COCONUTwwater&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-
-  <!-- Row 3: Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=COCONUTwwater&theme=tokyo-night&hide_border=true" />
-</div> -->
-
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/d0191564f04d1a23706ceebe7bc104ac" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
