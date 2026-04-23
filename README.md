@@ -17,10 +17,10 @@
 #### <a href="https://gist.github.com/d0191564f04d1a23706ceebe7bc104ac" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Brotato                          🕘 172 hrs 24 mins
+🔫 Counter-Strike 2                 🕘 161 hrs 48 mins
 🎮 ARK: Survival Evolved            🕘 160 hrs 9 mins
-🔫 Counter-Strike 2                 🕘 154 hrs 43 mins
 🎮 DRAGON BALL: THE BREAKERS        🕘 112 hrs 24 mins
-🎮 The Witcher 3: Wild Hunt         🕘 84 hrs 4 mins
+🎮 HELLDIVERS™ 2                    🕘 100 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
